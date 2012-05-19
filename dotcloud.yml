@@ -1,0 +1,4 @@
+wkhtml:
+    type: nodejs
+    systempackages:
+        - libxrender1
